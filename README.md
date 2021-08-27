@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Email: ] (mohammadshamim.1998@yahoo.com)
-- 😄 Pronouns: ... he/her
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am not so good
 
 
