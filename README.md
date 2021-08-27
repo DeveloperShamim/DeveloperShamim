@@ -18,7 +18,7 @@ I was born in 1998. I live in Dhaka and I completed  BSc  in Computer  Science  
 
 ### EDUCATION
 #### University: Independent University, Bangladesh — Bachelor </br>
-August 2016 – Current</br>
+August 2016 – 2020</br>
 COURSE COMPLETED: </br>
 ● Object Oriented Programming & Design</br>
 ● Data Structure & Algorithm</br>
