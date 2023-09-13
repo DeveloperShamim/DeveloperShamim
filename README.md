@@ -44,6 +44,9 @@ COURSE COMPLETED: </br>
 September 2019 - December 2020</br>
 ● Completed a beginner to advanced Flutter course guided and taught by 
 online mentors on the Udemy platform.</br>
+#### Creative IT Institute</br>
+December 2020 - December 2022</br>
+● Completed Blockchain Development Course</br>
 #### TECHINICAL SKILLS</br>
 ● Ability to write and compile simple programming in java, & C++</br>
 ● Moderate familiarity of HTTP, JS, CSS and PHP</br>
